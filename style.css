@@ -219,9 +219,10 @@ li {
     display: flex;
     justify-content: center;
     align-items: center;
-    position: absolute;
+    position: fixed;
     bottom: 32px;
     right: 40px;
+    z-index: 200;
 }
 /*Modal*/
 .modal__open .modal{
