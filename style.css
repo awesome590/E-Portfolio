@@ -382,6 +382,7 @@ li {
 }
 .project__img {
     width: 100%;
+    height: 100%;
     transition: all 600ms ease;
 }
 .project__wrapper {
