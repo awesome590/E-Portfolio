@@ -410,6 +410,9 @@ li {
     z-index: 100;
 }
 /*Projects*/
+.project {
+    margin-bottom: 96px;
+}
 .section__title {
     text-align: center;
     font-size: 48px;
