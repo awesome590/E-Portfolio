@@ -320,7 +320,7 @@ li {
     filter: brightness(80%);
 }
 .modal__lang {
-    width: calc(100%/3);
+    width: calc(100%/4);
     padding: 16px;
     position: relative;
     display: flex;
